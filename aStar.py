@@ -1,7 +1,6 @@
 import heapq
 from collections import defaultdict
 
-
 def aStar(graph, start, goal, heuristics):
     fringe = []
     heapq.heappush(fringe, (0 + heuristics[start], 0, start))
