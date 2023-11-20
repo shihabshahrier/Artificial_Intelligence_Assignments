@@ -1,1 +1,3 @@
-# CSE422_Assignments
+## A Star Algorithm
+
+## Genetic Algorithm
